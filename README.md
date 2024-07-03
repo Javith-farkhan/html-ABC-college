@@ -29,7 +29,7 @@ There should be an appropriate description of the college on the home page.
 ![html1 2](https://github.com/Javith-farkhan/html-ABC-college/assets/94296805/f541c445-4018-4258-b9b8-c83fc2f6bb94)
 
 
-#ASSIGNMENT - 1
+# ASSIGNMENT - 1
 
 ![Output](https://github.com/Javith-farkhan/html-ABC-college/assets/94296805/b588b42b-4bd6-42db-a130-b3941ad21c20)
 
