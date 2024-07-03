@@ -1,5 +1,3 @@
-![html1 1](https://github.com/Javith-farkhan/html-ABC-college/assets/94296805/f5d560f7-aecd-4160-9e57-c62dabb49412)
-
 # html-ABC-college
 
 One Home page that leads to other pages. The Home page should contain the name of the City as heading along with a logo. There should be a tab with the following links:
@@ -8,6 +6,9 @@ One Home page that leads to other pages. The Home page should contain the name o
  Hotel Booking;
  Gallery.
 There should be an appropriate description of the college on the home page.
+
+
+![html1 1](https://github.com/Javith-farkhan/html-ABC-college/assets/94296805/f5d560f7-aecd-4160-9e57-c62dabb49412)
 
 ![html1 3](https://github.com/Javith-farkhan/html-ABC-college/assets/94296805/9cf38a5f-c5d5-49be-8c3f-9196fbbe710e)
 
